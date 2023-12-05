@@ -5,7 +5,7 @@
 ## Hi there 👋, I'm Jesus Martinez
 
 - 🏚️ I'm from Guadalajara, Jalisco, Mexico.
-- 📚 I'm currently studying Software Engineering at [Universidad de Guadalajara](https://www.udg.mx).
+- 📚 I'm currently studying Software Engineering at Universidad de Guadalajara.
 - 💻 I'm currently learning **Web Development**.
 - 🎮 I love to play videogames in my free time.
 
