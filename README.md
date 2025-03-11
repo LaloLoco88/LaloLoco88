@@ -5,8 +5,8 @@
 ## Hi there 👋, I'm Jesus Martinez
 
 - 🏚️ I'm from Guadalajara, Jalisco, Mexico.
-- 📚 I'm currently studying Software Engineering at Universidad de Guadalajara.
-- 💻 I'm currently learning **Web Development**.
+- 📚 I'm an Informatic Engineer graduated from Universidad de Guadalajara.
+- 💻 I'm currently working as a **Web Development**.
 - 🎮 I love to play videogames in my free time.
 
 ## My Github Stats
@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img width="75%" src="https://skillicons.dev/icons?i=c,cs,cpp,unity,php,laravel,vue,alpinejs,js,nodejs,tailwind,py,mysql,git,github,processing&perline=8" />
+    <img width="75%" src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,nodejs,c,cpp,java,unity,tailwind,py,mysql,mongo,git,github,docker&perline=8" />
   </a>
 </p>
 <br>
