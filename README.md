@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/b1ZoZrDfRb7va/giphy.gif" width="260" height="150"></img>  
 </div>
 
-## Hi there 👋, I'm Jesus Eduardo Martinez
+## Hi there 👋, I'm Jesus Eduardo Martinez.
 
 - 🏚️ I'm from Guadalajara, Jalisco, Mexico.
 - 📚 I'm an Informatic Engineer graduated from Universidad de Guadalajara.
