@@ -7,7 +7,7 @@
 - 🏚️ I'm from Guadalajara, Jalisco, Mexico.
 - 📚 I'm an Informatic Engineer graduated from Universidad de Guadalajara.
 - 💻 I'm currently working as a **Web Development**.
-- 🎮 I love to play videogames in my free time.
+- 🎮 I love to play videogames in my free time
 
 ## My Github Stats
 
